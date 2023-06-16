@@ -1,4 +1,5 @@
 name: "Test compiling against Java 8, 11 and 16"
+runs-on: self-hosted
 
 on:
   pull_request:
