@@ -2,12 +2,7 @@ name: Default build, check and deploy
 on:
   push:
     branches:
-      - prod
-      - stage
-      - dev
-      - feature/*
-      - bugfix/*
-      - hotfix/*
+      - feature/support-1.20.
 jobs:
   build:
     runs-on: self-hosted
