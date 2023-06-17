@@ -1,8 +1,5 @@
 name: Default build, check and deploy
-on:
-  push:
-    branches:
-      - feature/support-1.20.
+
 jobs:
   build:
     runs-on: self-hosted
