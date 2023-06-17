@@ -7,7 +7,7 @@
 
 [discord]: https://helpch.at/discord
 [spigot]: https://www.spigotmc.org/resources/6245/
-[Expansions cloud]: https://api.extendedclip.com/home
+[Expansions cloud]: https://api.extendedclip.com/home/
 [placeholder list]: https://helpch.at/placeholders
 [statistics]: https://bstats.org/plugin/bukkit/PlaceholderAPI
 
